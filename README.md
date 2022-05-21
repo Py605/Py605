@@ -1,4 +1,4 @@
-# Hey👋, I am <a href="https://py605.github.io/" target="blank"> Priyanshu Bharti
+# Hey👋, I am <a href="https://py605.github.io/" target="_blank"> Priyanshu Bharti
 
 ## About Me
   * I am an ethusiastic learner and am pursuing my undergradute in Computer Science.
@@ -30,5 +30,5 @@
 ### 📫 Connect with me
 <img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32">
   
-  <a href="mailto:pryanshubharti9412@gmail.com"><img src="https://user-images.githubusercontent.com/67560900/142841436-2ec3fd04-8b20-45c3-b8e0-582b0f92641b.png" width="40"></a>|<a href="https://www.linkedin.com/in/priyanhsu-bharti/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/py605"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/pryanshubharti605/"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Instagram_logo_2016.svg" width="45"></a>|<a href="https://leetcode.com/py605/"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" width="45">
+  <a href="mailto:pryanshubharti9412@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/67560900/142841436-2ec3fd04-8b20-45c3-b8e0-582b0f92641b.png" width="40"></a>|<a href="https://www.linkedin.com/in/priyanhsu-bharti/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/py605" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/priyanshubharti605/" target="_blank"><img src="https://github.com/SunitRoy2703/SunitRoy2703/blob/main/assets/Instagram_logo_2016.svg" width="45"></a>|<a href="https://leetcode.com/py605/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" width="45">
 |--|--|--|--|--|
