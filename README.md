@@ -26,8 +26,6 @@
 ![Skill](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/py605/Actions/blob/output/github-contribution-grid-snake.svg)
   
 ### 📫 Connect with me
 <img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32">
