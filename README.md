@@ -1,4 +1,4 @@
-# Hey👋, I am <a href="https://py605.github.io/" target="_blank"> Priyanshu Bharti
+# Hey👋, I am <a href="https://py605.github.io/My-Resume/" target="_blank"> Priyanshu Bharti
 
 ## About Me
   * I am an ethusiastic learner and am pursuing my undergradute in Computer Science.
