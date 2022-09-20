@@ -1,8 +1,9 @@
 # Hey👋, I am <a href="https://py605.github.io/My-Resume/" target="_blank"> Priyanshu Bharti
 
 ## About Me
-  * I am an ethusiastic learner and am pursuing my undergradute in Computer Science.
+  * I am an ethusiastic learner and am pursuing B.Tech (C.S.E.) from DIET, Rishikesh (2019-2023).
   * Interested in Full Stack Web & Application Development & Problem Solving.
+  * Some technologies I enjoy working with include CSS, Javascript, NodeJS and ExpressJS. Currrently exploring ReactJS.
   * I love to learn & Try-out new skills, develop software.
 
 ## ✍ My Work
