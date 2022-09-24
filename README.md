@@ -1,4 +1,4 @@
-# Hey👋, I am <a href="https://py605.github.io/My-Resume/" target="_blank"> Priyanshu Bharti
+# Hey👋, I am <a href="https://py605.github.io/portfolio-website/" target="_blank"> Priyanshu Bharti
 
 ## About Me
   * I am an ethusiastic learner and am pursuing B.Tech (C.S.E.) from DIET, Rishikesh (2019-2023).
