@@ -8,7 +8,7 @@
 
 ## ✍ My Work
 ![Priyanshu Bharti's github stats](https://github-readme-stats.vercel.app/api?username=py605&show_icons=true&theme=radical)
- ![](https://activity-graph.herokuapp.com/graph?username=py605&theme=react-dark&hide_border=true&area=true)
+ ![](https://github-readme-activity-graph.cyclic.app/graph?username=py605&hide_border=true&theme=vue)
 
 
 ## 📚 My Skills
