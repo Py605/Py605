@@ -41,4 +41,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/py605/count.svg" />
 </p>
-<h3>Have a Job suited for me... My Resume:- <a target="_blank" href="https://drive.google.com/file/d/1WArJ3JsSmjm-s2BMBC2xv-pChq8PhZMY/view?usp=sharing">here</a></h3>
+<h3>Have a Job suited for me... My Resume:- <a target="_blank" href="https://drive.google.com/file/d/1gaKb3KtMY9pZITC-cA6DT4JNnIG0T6AM/view?usp=share_link">here</a></h3>
